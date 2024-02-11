@@ -17,3 +17,12 @@ Before running this project, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/a-basuony/Redux-Typescript.git
+
+src/
+├── actions/           # Redux action creators
+├── components/        # React components
+├── constants/         # Constants for action types
+├── reducers/          # Redux reducers
+├── types/             # TypeScript type definitions
+├── App.tsx            # Main App component
+└── index.tsx          # Entry point
